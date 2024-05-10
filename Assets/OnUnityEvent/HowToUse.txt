@@ -1,0 +1,5 @@
+Some events require node [ On Unity Event ] in Visual Scripting
+You should Unzip and import this folder to make everything work well !
+
+Require : 
+* Visual Scripting version 1.9.0 : have some issue with this. Not recommend to use 1.9.0 / Recommend to use Visual Scripting version 1.7.8
